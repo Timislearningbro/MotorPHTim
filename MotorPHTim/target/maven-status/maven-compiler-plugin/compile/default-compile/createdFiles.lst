@@ -1,0 +1,5 @@
+com\mycompany\motorph\MotorPH.class
+com\motorph\main\ComputeSemiMonthlySalary.class
+PaydayPayrollSimple.class
+com\motorph\main\ReadFromTextFile.class
+com\motorph\main\MotorPH_CompletePayroll.class
